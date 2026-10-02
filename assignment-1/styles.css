@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(176, 219, 230);
+    font-family: Arial;
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(0, 43, 88);
+}
+
+h2 {
+    color: navy;
+}
+
+header {
+    text-align: center;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+}
+
+nav {
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    margin: 10px;
+}
+
+section {
+    margin-bottom: 20px;
+}
